@@ -23,7 +23,6 @@ This program allows the user to select whether they want to encrypt or decrypt a
 
 ## 🧠 Example
 
-```bash
 Enter text: Hello, World!
 Enter shift value: 3
 Enter 'encrypt' to encrypt or 'decrypt' to decrypt text: encrypt
@@ -34,7 +33,7 @@ Enter shift value: 3
 Enter 'encrypt' to encrypt or 'decrypt' to decrypt text: decrypt
 Hello, World!
 
-🛠️ Usage
+##🛠️ Usage
 Clone the repository:
 
 git clone https://github.com/your-username/caesar-cipher-python.git
