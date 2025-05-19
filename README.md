@@ -26,7 +26,7 @@ This program allows the user to select whether they want to encrypt or decrypt a
 ##🛠️ Usage
 Clone the repository:
 ```bash
-git clone https://github.com/your-username/caesar-cipher-python.git
+git clone https://github.com/bhakti-biswal/PRODIGY_CS_01.git
 cd caesar-cipher-python
 ```
 
